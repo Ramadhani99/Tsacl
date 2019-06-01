@@ -115,6 +115,7 @@ blockquote:before{
 	position:relative;
 	padding-top:80px;
 	padding-bottom:80px;
+	box-shadow: 0 4px 18px 0 rgba(0, 0, 0, .12), 0 7px 10px -5px rgba(0, 0, 0, .15);
 }
 
 .section-hr {
